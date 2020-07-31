@@ -1,0 +1,2 @@
+This is an exercise in machine learning to predict some aspects of forest fires in Portugal. This repository could
+not have been made possible without the data from UCI. Their data repository can be found here https://archive.ics.uci.edu/ml/index.php.
